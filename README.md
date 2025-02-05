@@ -6,4 +6,5 @@
 - Python
 - Mysql
 ### 시스템 아키텍처
-![image.png](attachment:f8e5da74-ba10-4834-974f-8a0a54731fd3:image.png)
+![비들키 시스템](https://github.com/user-attachments/assets/20a8776b-07c0-4412-921b-df1d303f9630)
+
