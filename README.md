@@ -1,4 +1,4 @@
-![비들키.png](attachment:d89c26ff-b55a-4a3b-92b3-4365327bb94a:비들키.png) 
+![비들키 배경](https://github.com/user-attachments/assets/32f1f28a-069d-4faf-a806-f3c27a23db33)
 ---
 ### 프로젝트 주제
 **공공데이터포털**의 정책 관련 API 및 CSV 파일을 효율적으로 관리하기 위한 데이터베이스 구축
